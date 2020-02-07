@@ -1,7 +1,3 @@
-//written by:Lukas Kuppers
-//mar 20 2019
-//project lead: Lukas Kuppers
-//highscore: 6758 //legacy version tho
 
 PFont extended;
 int highScore = 0;
