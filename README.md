@@ -1,5 +1,6 @@
 # Infinite-cave-game
 This is a simple game made with Processing 3.0.
+It's available on the google play store as [Cavern Dash](https://play.google.com/store/apps/details?id=com.LukasKuppers.CavernDash).
 
 <img src="images/CaveGameDemo.gif" width ="50%" height ="50%">
 
